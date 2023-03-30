@@ -133,3 +133,5 @@ dmypy.json
 
 # working stuff
 /working
+slack_users.csv
+tampo_report.csv
